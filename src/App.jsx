@@ -4,7 +4,7 @@ import requests from './axiReq/request';
 import Banner from './Banner/Banner ';
 import Nav from './Nav/Nav';
 import Row from './Row/Row';
-import Footer from './Footer/Footer';
+// import Footer from './Footer/Footer';
 
 function App() {
   return (
