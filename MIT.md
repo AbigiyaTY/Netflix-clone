@@ -1,4 +1,4 @@
-## Copyright 2023, [Abigiya Tadesse]
+## Copyright 2022, [Abigiya Tadesse]
 
 ###### Netflix Clone can be a webpage/website, a web app, a software and so on
 
