@@ -2,6 +2,8 @@
 
 > Netflix clone website uses lives data from the movie db website API to display movies trails..
 
+![image](https://user-images.githubusercontent.com/98043302/218338733-1c0c5f5f-2d40-411f-8348-d548d14d1118.png)
+
 
 ## Built With
 
