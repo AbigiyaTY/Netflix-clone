@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Netflix Clone
 
 > Netflix clone website uses lives data from the movie db website API to display movies trails..
